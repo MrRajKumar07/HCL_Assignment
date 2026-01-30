@@ -1,0 +1,15 @@
+Inventory Management System: Tracking stock levels using key-value pairs.
+
+An *Inventory Management System* 
+helps track available stock for products in a store or warehouse.
+
+Each product has:
+
+* A *unique product ID / name*
+* A *quantity (stock level)*
+
+A *dictionary (key-value pair)* is used because:
+
+* Product ID → *unique key*
+* Stock quantity → *value*
+* Fast lookup, update, and deletion

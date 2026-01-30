@@ -1,0 +1,11 @@
+Student Grade Management System: 
+    Using dictionaries to map student IDs to grades.
+
+The system should:
+
+* Store *student IDs* and their *grades*
+* Allow adding new students
+* Update grades of existing students
+* Retrieve grades using student ID
+* Display all student records
+* Optionally calculate class statistics (average, highest, lowest)

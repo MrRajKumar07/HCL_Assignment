@@ -1,0 +1,20 @@
+Bank Account Simulator: Implementing basic deposit and withdrawal logic.
+
+### *Objective*
+
+To implement a simple *Bank Account Simulator* 
+using a *class*, demonstrating:
+
+* Data encapsulation
+* Deposit and withdrawal operations
+* Basic object-oriented programming concepts
+
+---
+
+## *Problem Description*
+
+A bank account has:
+
+* An account balance
+* Functions to deposit and withdraw money
+* A way to check the current balance

@@ -1,0 +1,16 @@
+Expense Tracker – Categorizing Daily Spending*
+
+###  What does this requirement really mean?
+
+You are asked to:
+
+1. Track *daily expenses*
+2. Each expense has:
+
+   * Amount
+   * Category (Food, Travel, Shopping, etc.)
+3. Use *list comprehensions* to:
+
+   * Filter expenses by category
+   * Calculate totals
+   * Extract useful information

@@ -1,0 +1,24 @@
+package com.example.expenseTracker;
+
+public class Expense {
+
+    private String description;
+    private double amount;
+    private String category;
+
+    public Expense(String description, double amount, String category) {
+        this.description = description;
+        this.amount = amount;
+        this.category = category;
+    }
+
+    // Getters
+    public String getDescription() { return description; }
+    public double getAmount() { return amount; }
+    public String getCategory() { return category; }
+
+    @Override
+    public String toString() {
+        return String.format("%s: %.2f [%s]", description, amount, category);
+    }
+}

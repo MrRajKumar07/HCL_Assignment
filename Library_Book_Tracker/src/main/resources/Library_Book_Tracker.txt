@@ -1,0 +1,15 @@
+Library Book Tracker: A list-based 
+     system to track issued and returned books**
+
+###  What does this requirement actually mean?
+
+You need to build a *small library system* that:
+
+* Keeps track of *available books*
+* Keeps track of *issued books*
+* Allows:
+
+  * Issuing a book
+  * Returning a book
+* Uses *lists only*
+----------

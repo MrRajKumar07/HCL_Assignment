@@ -1,0 +1,19 @@
+ATM Pin Verification System: statements for security.
+
+### *Objective*
+
+To design a simple ATM PIN verification system,
+to ensure basic security.
+
+---
+
+## *Problem Description*
+
+An ATM system requires a user to enter a *4-digit PIN* 
+to access banking services.
+
+For security reasons:
+
+* The user is allowed *only a limited number of attempts* (for example, 3).
+* If the correct PIN is entered within the allowed attempts, access is granted.
+* If the user enters the wrong PIN repeatedly, the system blocks further attempts.
