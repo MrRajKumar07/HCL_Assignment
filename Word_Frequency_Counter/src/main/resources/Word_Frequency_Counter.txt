@@ -1,0 +1,15 @@
+Word Frequency Counter: 
+   Analyzing a string to count unique word occurrences.
+
+A *Word Frequency Counter* analyzes a given text 
+(sentence, paragraph, or document) and determines:
+
+* How many *unique words* exist
+* How many times *each word appears*
+
+This is widely used in:
+
+* Text analytics
+* Search engines
+* Log analysis
+* NLP preprocessing

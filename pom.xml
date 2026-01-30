@@ -13,5 +13,7 @@
   	<module>Library_Book_Tracker</module>
   	<module>Student_Grade_Management_System</module>
   	<module>Inventory_Management_System</module>
+  	<module>Contact_Book_Application</module>
+  	<module>Word_Frequency_Counter</module>
   </modules>
 </project>

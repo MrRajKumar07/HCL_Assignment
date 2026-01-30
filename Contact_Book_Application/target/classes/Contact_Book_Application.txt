@@ -1,0 +1,16 @@
+Contact Book Application: 
+    Storing and searching contact details in a dictionary.
+
+The *Contact Book Application* stores personal contact information such as:
+
+* Name
+* Phone number
+* Email
+
+Each contact is identified using a *unique name or contact ID*.
+
+Dictionary is ideal because:
+
+* Fast search
+* Easy updates
+* Clean structure
