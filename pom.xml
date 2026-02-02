@@ -15,5 +15,7 @@
   	<module>Inventory_Management_System</module>
   	<module>Contact_Book_Application</module>
   	<module>Word_Frequency_Counter</module>
+  	<module>Csv_To_Json_Converter</module>
+  	<module>Automated_Report_Generator</module>
   </modules>
 </project>

@@ -1,0 +1,18 @@
+CSV to JSON Converter: Transforming data formats using built-in modules.
+
+Requirement Elaboration:
+
+The CSV to JSON Converter is a small utility program that:
+Takes a CSV file (Comma Separated Values) as input
+Reads tabular data where:
+First row contains column headers
+Remaining rows contain records
+Converts each CSV row into a JSON object
+Stores all records as a JSON array
+Writes the converted data into a JSON file
+This is a very common real-world data transformation task, used in:
+
+Data migration
+Backend APIs
+ETL pipelines
+Reporting systems

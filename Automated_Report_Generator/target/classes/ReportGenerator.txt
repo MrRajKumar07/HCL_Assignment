@@ -1,0 +1,28 @@
+Automated Report Generator: 
+    Reading a text file and generating a performance summary
+Requirement Elaboration:
+
+The Automated Report Generator is a small program that:
+
+Reads data from a plain text file
+
+The text file contains performance-related information
+(scores, execution times, pass/fail results, sales numbers,...etc. 
+ based on the usecase)
+
+Analyzes the data using simple logic
+
+Generates a summary report that highlights:
+Totals
+Averages
+Best / worst performance
+Overall status
+Outputs the summary as:
+Console output or
+A new text report file
+This mimics real-world automation used in:
+
+Test execution reports
+Employee performance summaries
+System monitoring logs
+Student result processing
