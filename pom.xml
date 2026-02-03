@@ -17,5 +17,7 @@
   	<module>Word_Frequency_Counter</module>
   	<module>Csv_To_Json_Converter</module>
   	<module>Automated_Report_Generator</module>
+  	<module>Recipe_Manager</module>
+  	<module>Quiz_Application</module>
   </modules>
 </project>

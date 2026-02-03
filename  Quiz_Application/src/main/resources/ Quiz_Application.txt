@@ -1,0 +1,24 @@
+#  Quiz Application
+
+### A session-wise challenge system
+
+---
+
+## One-Liner Elaboration (Business Understanding)
+
+A *Quiz Application* is a system where:
+
+* Users participate in quizzes *session-wise*
+* Each session contains:
+
+  * Multiple questions
+  * Multiple-choice options
+  * One correct answer per question
+* User answers are evaluated
+* A score is calculated per session
+
+> *Session-wise challenge* means:
+> 
+>* One quiz = one session
+> * Score resets for each session
+> * Sessions are independent

@@ -1,0 +1,19 @@
+Recipe Manager
+    Storing ingredients and steps for different dishes
+
+## One-Liner Elaboration (Business Understanding)
+
+
+A *Recipe Manager* is a simple system that allows users to:
+
+* Store multiple recipes
+* Each recipe contains:
+
+  * Recipe name
+  * List of ingredients (with quantity)
+  * Step-by-step cooking instructions
+* View recipes when needed
+
+> In real life:
+> Used in *food apps, **content platforms*, 
+*home automation assistants, and **learning projects*
