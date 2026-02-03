@@ -1,0 +1,19 @@
+Student Attendance Tracker
+
+Requirement Elaboration
+
+Develop a Student Attendance Tracker using Python that records
+ daily attendance for students and stores the data in a CSV file.
+The system should allow marking students as Present or Absent, 
+automatically record the date, and persist the attendance 
+data so it can be reviewed later.
+
+This simulates a real-world school or corporate training attendance system, 
+focusing on file handling and structured data storage.
+
+Objectives:
+
+Capture daily attendance input from the user
+Store attendance records in a persistent CSV file
+Ensure data is written in a structured and readable format
+Enable easy review of historical attendance data

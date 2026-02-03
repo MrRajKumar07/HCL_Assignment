@@ -1,0 +1,14 @@
+Analyze Monthly Sales from a CSV
+
+program that reads sales data from a CSV file and analyzes month-wise 
+sales performance.
+The program should compute key metrics such as total monthly revenue, 
+average sales, and identify the highest and lowest performing months.
+This task simulates a real-world business reporting scenario 
+where raw transactional data is converted into actionable insights.
+
+
+Read structured sales data from a CSV file
+Process and aggregate data on a monthly basis
+Generate summary metrics useful for decision-making
+Present results in a clear and readable format

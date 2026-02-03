@@ -19,5 +19,7 @@
   	<module>Automated_Report_Generator</module>
   	<module>Recipe_Manager</module>
   	<module>Quiz_Application</module>
+  	<module>Monthly_Sales_Analyzer</module>
+  	<module>Student_Attendance_Tracker</module>
   </modules>
 </project>
