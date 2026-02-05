@@ -21,5 +21,6 @@
   	<module>Quiz_Application</module>
   	<module>Monthly_Sales_Analyzer</module>
   	<module>Student_Attendance_Tracker</module>
+  	<module>Markdown_to_HTML_Converter</module>
   </modules>
 </project>
