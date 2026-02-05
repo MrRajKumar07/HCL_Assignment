@@ -1,0 +1,17 @@
+Personal Diary App
+A text-based daily journaling system
+One-Liner Elaboration (Business Understanding)
+A Personal Diary App is a simple system where:
+A user maintains daily personal notes
+Each diary entry is:
+Written on a specific date
+Stored persistently in a text file
+
+Users can:
+Write a new diary entry
+Read previous entries
+Data remains available across program runs
+Text-based file handler means:
+No database is used
+Data is stored in .txt files
+File I/O (open, read, write, append) is the core mechanism

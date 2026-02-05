@@ -1,0 +1,35 @@
+E-commerce Cart
+
+### Objects for Products, Users, and the Shopping Cart
+
+---
+
+## 1️. One-Liner Elaboration (Business Understanding)
+
+An *E-commerce Cart* system allows users to:
+
+* Browse products
+* Add/remove products to a cart
+* Maintain quantities
+* View cart totals
+* Prepare data for checkout (pricing, tax, discounts)
+
+This is the *heart of any e-commerce backend*.
+
+---
+
+## 2️. Functional Scope
+
+### Core Features
+
+* Product catalog
+* User management
+* Shopping cart per user
+* Quantity handling
+* Price calculation
+
+### Non-Functional
+
+* Data consistency
+* Easy extension (offers, coupons)
+* Clean separation of concerns

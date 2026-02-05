@@ -1,0 +1,16 @@
+Markdown to HTML Converter
+A file-based text transformation utility
+One-Liner Elaboration (Business Understanding)
+
+A Markdown to HTML Converter is a system where:
+A user provides a Markdown (.md) file
+The system reads the file content
+Markdown syntax is converted into HTML
+The converted content is saved as an .html file
+Utilizing string methods and file I/O means:
+No external libraries (like markdown module)
+
+Conversion is done using:
+String replacement
+Pattern matching
+Input and output are file-based

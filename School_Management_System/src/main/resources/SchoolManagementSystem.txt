@@ -1,0 +1,26 @@
+School Management System
+
+### Classes for Teachers, Students, and Courses
+
+---
+
+## 1️. One-Liner Elaboration (Business Understanding)
+
+A *School Management System* models:
+
+* Students enrolling in courses
+* Teachers teaching courses
+* Course schedules and assignments
+
+
+---
+
+## 2️. Functional Scope
+
+### Core Features
+
+* Student registration
+* Teacher assignment
+* Course creation
+* Enrollment management
+* Course listings per user
