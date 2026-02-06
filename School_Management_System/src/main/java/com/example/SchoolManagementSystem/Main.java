@@ -10,9 +10,8 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // 1. Initial Setup
-        Teacher profSmith = new Teacher(1, "Dr. AnthoniRaj", "Computer Science");
-        Course javaCourse = new Course("Java Programming", profSmith);
+        Teacher profAnthoni = new Teacher(1, "Dr. AnthoniRaj", "Computer Science");
+        Course javaCourse = new Course("Java Programming", profAnthoni);
 
         System.out.println("--- School Management System ---");
         
@@ -20,7 +19,7 @@ public class Main {
             System.out.println("\n1. Enroll Student  2. View Course Info  3. Exit");
             System.out.print("Choice: ");
             int choice = scanner.nextInt();
-            scanner.nextLine(); // Consume newline
+            scanner.nextLine(); 
 
             if (choice == 1) {
                 System.out.print("Enter Student ID: ");

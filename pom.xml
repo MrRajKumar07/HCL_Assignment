@@ -25,5 +25,6 @@
   	<module>PersonalDiaryApp</module>
   	<module>EcommerceCart</module>
   	<module>School_Management_System</module>
+  	<module>Employee_Payroll_System</module>
   </modules>
 </project>
