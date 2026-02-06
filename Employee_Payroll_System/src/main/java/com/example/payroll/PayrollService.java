@@ -62,6 +62,6 @@ public class PayrollService {
             totalPayout += salary;
         }
         System.out.println("---------------------------------------------------------");
-        System.out.printf("Total Company Payout: $%.2f\n", totalPayout);
+        System.out.printf("Total Company Payout: %.2f\n", totalPayout);
     }
 }
